@@ -17,29 +17,23 @@ game_images = {}
 framepersecond = 32
 
 #load images
-pipeimage = Path('C:/Users/naija/AppData/Local/Programs/Python/Python310/Scripts/python progs/images/pipe.png')
-background_image = 'C:/Users/naija/AppData/Local/Programs/Python/Python310/Scripts/python progs/images/background.jpg'
-birdplayer_image = 'C:/Users/naija/AppData/Local/Programs/Python/Python310/Scripts/python progs/images/bird.png'
-sealevel_image = 'C:/Users/naija/AppData/Local/Programs/Python/Python310/Scripts/python progs/images/base.jfif'
+pipeimage = Path('C:/Users/naija/Coding/flappy-bird/images/pipe.png')
+background_image = 'C:/Users/naija/Coding/flappy-bird/images/background.jpg'
+birdplayer_image = 'C:/Users/naija/Coding/flappy-bird/images/bird.png'
+sealevel_image = 'C:/Users/naija/Coding/flappy-bird/images/base.jfif'
 
 #load score images
 
-zero=r'C:\Users\naija\AppData\Local\Programs\Python\Python310\Scripts\python progs\scores\zero.png'
-one=Path('C:/Users/naija/AppData/Local/Programs/Python/Python310/Scripts/python progs/scores/one.png')
-
-##if os.path.isfile(one):
-##    print("File exists")
-##else:
-##    print("File does not exist")
-
-two=Path('C:/Users/naija/AppData/Local/Programs/Python/Python310/Scripts/python progs/scores/two.png')
-three=Path('C:/Users/naija/AppData/Local/Programs/Python/Python310/Scripts/python progs/scores/three.png')
-four=Path('C:/Users/naija/AppData/Local/Programs/Python/Python310/Scripts/python progs/scores/four.png')
-five=Path('C:/Users/naija/AppData/Local/Programs/Python/Python310/Scripts/python progs/scores/five.png')
-six=Path('C:/Users/naija/AppData/Local/Programs/Python/Python310/Scripts/python progs/scores/six.png')
-seven=Path('C:/Users/naija/AppData/Local/Programs/Python/Python310/Scripts/python progs/scores/seven.png')
-eight=Path('C:/Users/naija/AppData/Local/Programs/Python/Python310/Scripts/python progs/scores/eight.png')
-nine=Path('C:/Users/naija/AppData/Local/Programs/Python/Python310/Scripts/python progs/scores/nine.png')
+zero=Path('C:/Users/naija/Coding/flappy-bird/images/0.png')
+one=Path('C:/Users/naija/Coding/flappy-bird/images/1.png')
+two=Path('C:/Users/naija/Coding/flappy-bird/images/2.png')
+three=Path('C:/Users/naija/Coding/flappy-bird/images/3.png')
+four=Path('C:/Users/naija/Coding/flappy-bird/images/4.png')
+five=Path('C:/Users/naija/Coding/flappy-bird/images/5.png')
+six=Path('C:/Users/naija/Coding/flappy-bird/images/6.png')
+seven=Path('C:/Users/naija/Coding/flappy-bird/images/7.png')
+eight=Path('C:/Users/naija/Coding/flappy-bird/images/8.png')
+nine=Path('C:/Users/naija/Coding/flappy-bird/images/9.png')
 
 
 #----------------------------------------------------------------------------------------------------------------------------------------------------------
