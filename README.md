@@ -1,4 +1,4 @@
-# lappy Bird Clone with Python & Pygame
+# Flappy Bird Clone with Python & Pygame
 
 A simple **Flappy Bird** clone built using Python and Pygame. 
 
