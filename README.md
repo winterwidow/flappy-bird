@@ -6,8 +6,8 @@ A simple **Flappy Bird** clone built using Python and Pygame.
 
 ## Game Preview
 
-![Flappy Bird Gameplay]()
-![Score Display]()
+![Flappy Bird Gameplay](gameplay/1.png)
+![Score Display](gameplay/2.png)
 
 ---
 
@@ -22,7 +22,7 @@ A simple **Flappy Bird** clone built using Python and Pygame.
 
 ---
 
-## 🚀 Getting Started
+## How to play:
 
 ### 1. Clone the repository
 ### 2. Install pygame
